@@ -97,4 +97,4 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/gt5note10lte/proprietary/lib/bin/rild:/system/lib/bin/rild \
     vendor/samsung/gt5note10lte/proprietary/lib/libril.so:/system/lib/libril.so \
     vendor/samsung/gt5note10lte/proprietary/lib/librilutils.so:/system/lib/librilutils.so \
-    vendor/samsung/gt5note10lte/proprietary/lib/libsec-ril.so"/system/lib/libsec-ril.so
+    vendor/samsung/gt5note10lte/proprietary/lib/libsec-ril.so:/system/lib/libsec-ril.so
